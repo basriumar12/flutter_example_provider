@@ -1,4 +1,4 @@
-# flutter_testin_provider
+# flutter_testing_provider
 
 A new Flutter application.
 
