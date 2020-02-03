@@ -1,4 +1,4 @@
-# flutter_testing_provider
+# flutter_example_provider
 
 A new Flutter application.
 
