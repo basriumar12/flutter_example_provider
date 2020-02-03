@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+//counter app
 class ExampleLocalizations {
   static ExampleLocalizations of(BuildContext context) {
     return Localizations.of<ExampleLocalizations>(context, ExampleLocalizations);
@@ -54,6 +54,7 @@ class ExampleLocalizations {
 
   final int _count;
 
+  // title in app bar
   String get title => 'Tapped $_count times';
 }
 
