@@ -55,7 +55,7 @@ class ExampleLocalizations {
   final int _count;
 
   // title in app bar
-  String get title => 'Tapped $_count times';
+  String get title => 'Click Button $_count times';
 }
 
 class _ExampleLocalizationsDelegate extends LocalizationsDelegate<ExampleLocalizations> {
